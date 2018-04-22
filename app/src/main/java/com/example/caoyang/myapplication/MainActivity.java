@@ -13,6 +13,7 @@ import com.skateboard.zxinglib.CaptureActivity;
 
 public class MainActivity extends AppCompatActivity{
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
